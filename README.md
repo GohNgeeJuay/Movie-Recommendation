@@ -15,3 +15,4 @@ This project uses the MovieLens 25m Dataset which is retrieved from: https://gro
   
 More info is available at MovieLens 25M Dataset README.txt
 
+Notebook have information regarding certain algorithms/math related/technical information.
